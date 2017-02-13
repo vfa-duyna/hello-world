@@ -1,3 +1,3 @@
 # hello-world
 
-some example contents.
+some test contents.
